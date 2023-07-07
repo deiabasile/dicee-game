@@ -1,3 +1,3 @@
 # dicee-game
 
-https://github.com/deiabasile/dicee-game.git
+https://deiabasile.github.io/dicee-game/
